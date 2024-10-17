@@ -1,0 +1,6 @@
+@VeebAPI_HostAddress = http://localhost:7086
+
+GET {{VeebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
